@@ -8,7 +8,6 @@
 <body>
     <h1>Blockchain Workshop</h1>
     <p>This project demonstrates the core components of a blockchain using Java and Spring Boot. It includes basic blockchain functionalities such as adding transactions, mining blocks, and validating the blockchain.</p>
-    
     <h2>Project Structure</h2>
     <p>The project is divided into several packages, each responsible for different aspects of the blockchain:</p>
     <ul>
